@@ -19,7 +19,7 @@ namespace triangle_battleship
 
                 int x1, x2, x3, y1, y2, y3;
 
-                Console.WriteLine("\nPlease enter the location of the ship");
+                Console.WriteLine("\nPlease enter the location of the ship ");
 
                 //A NOKTASI İÇİN
                 x1 = Convert.ToInt16(Console.ReadLine());
